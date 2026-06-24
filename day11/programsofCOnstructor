@@ -1,0 +1,21 @@
+1. wajp to design a real world entity having name , college and intiliaze 
+all the states by using parametrized constructor . 
+
+2 . create a copy of s1 object  to s2 . 
+
+
+
+3.//desgin a method which takes bank object as args and perform withdraw and deposit functionality.
+// Here --> deposit amount and withdraw amount should be entered by user
+
+    // Conditions:
+    // 1. Bank must have Customer name, phoneNumber, pin, balance
+    // 2. Bank must be initialized with user-defined values
+    // 3. During deposit verify user by using pin.
+    //    If verified then only allow user to add money in Bank balance
+    // 4. During withdraw verify balance amount and pin.
+    //    Then only allow to withdraw amount
+
+    // Note:
+    // After deposit and withdraw, amount should be updated
+    // in Bank original Balance!!

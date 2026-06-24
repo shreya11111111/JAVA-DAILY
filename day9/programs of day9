@@ -1,0 +1,20 @@
+ 1. write a java program to design a method which takes one character 
+ .here if character is lowecase alphabet then convert it into uppercase alphabet and return it
+ otherwise return the original character 
+
+ 2.  write a java program to design a method which takes one character 
+ .here if character is uppercase  alphabet then convert it into lowercase alphabet and return it
+ otherwise return the original character 
+
+ //here in both the programs args should be entered by user at the calling time . 
+
+ 3. wajp to design a method to create object of student and initialize name , age , phone of the student object by user 
+ in the end return student object.
+
+ 4. wajp to design a method to create an object of product where product contain brand name 
+ , price , year of launch .
+ now initialize product information by user , and return the product object.
+
+ //que of the day 
+ 5.create a method which takes 2 student object as arguments and print the 
+ name of the student having highest marks . 

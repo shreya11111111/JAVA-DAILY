@@ -1,0 +1,14 @@
+1. wajp to design a method which takes two customer objects and print youngest customer details  . 
+2. wajp to design a method which takes two customer objects and return youngest customer. 
+3. wajp to design a method which takes a string args and check whether the first character is vowel 
+or not 
+note: try to use any  method, 
+toUpperCase()
+toLowerCase() 
+charAt(int index)
+indexOF(char ch)
+
+4. wajp to design a method which takes 1 string 1 character arguments 
+now return true if the given character is present in given String otherwise  return false.
+
+
