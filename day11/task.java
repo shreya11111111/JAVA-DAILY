@@ -11,7 +11,7 @@ public class task {
     
   }
   public static void test(int i , int j ){
-    System.out.println("test with 2 args");
+    System.out.println("test with 2 argss");
     
   }
   
