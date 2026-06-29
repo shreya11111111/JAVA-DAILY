@@ -8,12 +8,13 @@ public class que {
 
 
   public static void main(String[] args){
-    que.cust();
-    cust c1 = new cust();
-    cust c2 = new cust();
+    cust(14 );
+    que c1 = new que();
+    que c2 = new que();
+  }
 
 
-    public static void  cust(name , age , id ){
+    public static void  cust( int age ){
       if(c1.age > c2.age){
         System.out.println(c1.age + "is the youngest customer");
       }
@@ -26,5 +27,4 @@ public class que {
     }
 
   }
-  
-}
+

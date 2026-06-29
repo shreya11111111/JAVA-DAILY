@@ -7,7 +7,7 @@ public class Apple extends fruit {
 
   }
   public Apple( int   price ){
-    super("Apple" , price);
+    super("Apple" , price);//didnt ask apple from user 
     //super("Apple", price);
   }
 
