@@ -1,0 +1,47 @@
+QUes 1 ------>
+
+design Product class having : 
+ variables : productId , name , price 
+* Parameterized Constructor
+* display details Method 
+
+Design a cloth class which extends Product 
+* variables : fabricType ,  (productId , name , price)
+* parametrized constructor
+* display details methods
+
+
+
+note * promotes code reusability , 
+avoids duplicate initialization code .
+
+
+Design a class WomenClothing extends Cloth 
+* variables : (fabricType productId , name , price)
+* parametrized constructor
+* display details methods
+
+Design a class MenClothing extends Cloth 
+* variables : (fabricType productId , name , price)
+* parametrized constructor
+* display details methods
+
+
+MenuDriven UI : 
+
+Create a Class Having name ShoppingApp contains main method 
+In the same Class design the following static methods:
+
+1.DisplayMenuForProduct()
+* press 1 for cloth
+* press 2 for Electronic Products
+* press 3 for Beauty Products
+* press 4 for 
+
+
+2.displayClothMenu()
+*press W for WomenClothing section
+* press M for Men clothing section
+* press K for kids clothing section 
+
+
