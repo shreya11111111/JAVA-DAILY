@@ -1,0 +1,12 @@
+design any program in such way so we can store n number of string objects ,  Student  objects ,
+Employee object.
+
+now check how many total objects per class are present in an array
+
+0->"java" , 1 -> new student() , 2 -> new Student()  , 3->new Employee , 4 -> "python" ;
+
+print output:
+total string objects : 2
+total student objects : 3 
+total employee objects : 1 
+total integer objects : 0 
