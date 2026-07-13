@@ -1,0 +1,21 @@
+task 1 : wajp to store some names of languages in a list and perform the following task:
+1 .print all languagaes one by one
+2.print the languages having length greater than 3
+3.print the languages start with letter 'j'
+4.count how many languages have length less than 4 
+5.design a method which takes list of languages as args return the new list of
+ languages which starts with vowel and store the returning list in main method.
+
+
+task 2 .design a list to store employee objects here each and every employee object must have 
+ id , name , age , phone no , salary ,year of joining  . Now perform the following task 
+
+ 
+ task 1 : Print all the employees only name and age .
+ task 2: Print all the employees only name and phone no .
+ task 3 : Print all employee details joined in 2021 .   Output (If not ) catch block - No such employeee found if not any 
+ task 4 : Print the details of youngest employee
+ task 5: Print the detail of oldest employee 
+ task 6 :Find out highest salary employee
+ task 7 : find out lowest salary employee 
+ task 8 : find out list of employees joined between 2022 - 2026 . 
