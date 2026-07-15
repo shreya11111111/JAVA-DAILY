@@ -1,0 +1,4 @@
+1. design a java program to create a student entity in such way so its object
+has  name , age , phone no and marksheet .here marksheet(is a class ) has 4 
+subject marks and double getPercentage() , String getFinalGrade() methods .
+// Concept: Has-A relation 
