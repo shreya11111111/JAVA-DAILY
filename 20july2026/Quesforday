@@ -1,0 +1,29 @@
+
+Method chaining Ques
+flow :
+create student object 
+initialize it all states 
+now call display all the details 
+
+
+
+
+program 1 oops - 
+write a java mini application where a file/ManagementSystem/Program can manage employees 
+in a list .
+Note : every logic must be object oriented
+Note:real world entity must be encapsulated 
+try to use code reuseability.
+
+1.Allow user to add employee in a list 
+
+2.allow user to search an employee by id from the list if employee
+present return employee object not present then return null 
+but for user output should be found or not found 
+
+3.allow user to search an employee by phone  from the list if employee
+present return employee object not present then return null 
+but for user output should be found or not found 
+
+features to add more : 
+try each and every employee must have unique phoneno . 
