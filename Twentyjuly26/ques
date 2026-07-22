@@ -1,0 +1,25 @@
+1. we have a given arraylist having elements [10,3,3,4,5,10,3,5,5,7,9]
+now perform following task:
+task1: find out list of  element that occures only 1 time 
+task2:find out list of elements occurs morer than 1 time .
+perform task1 and task2 using hashset.
+
+Syntax of for each loop 
+for each(Datatype element : listName){
+  //task with element
+}
+
+
+2.Write a java program to create list of students having differnet courses.
+Every student object must have overrided tostring method , overrided equals method which compares
+two students on the basis of thier id , overrided hashcode method which uniquely returns id for every object .
+Now perform the following task:
+
+
+1) count only java fullstack student .
+2) Check wheather any two student have same id or not in the given list . 
+
+
+1)show list of unique courses from students data.
+2)show list of unique names.
+3)show list of duplicate names
