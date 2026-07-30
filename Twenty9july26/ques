@@ -1,0 +1,10 @@
+create an outer class ---> demo 
+having 2 inner classses 
+1 task  -- static inner class
+2 test -- non static inner class
+
+--------------------------------------------
+create controller:
+step1 - crete object of demo class and print the object refrence 
+step2- create object of task class and print the object refrence
+step3- create object of test class and print the object refrence 
